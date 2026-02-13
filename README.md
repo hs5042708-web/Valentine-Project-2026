@@ -12,9 +12,12 @@ An elegant, interactive, and luxury-themed web experience designed for Valentine
 
 ---
 ## 🔗 Live Demo
-Check out the live interactive experience here:  
-👉 **[View Valentine's Project Live](https://hs5042708-web.github.io/Valentine-Project-2026/)**
 
+Check out the live interactive experience here:
+
+👉 [View Valentine's Project Live](https://hs5042708-web.github.io/Valentine-Project-2026/)
+
+---
 ## 🚀 Quick Start
 
 To run this project locally, follow these simple steps:
